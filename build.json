@@ -1,0 +1,18 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "enbbplusplusg8.jks",
+            "storePassword": "enbbplusplusg8",
+            "alias": "enbbplusplusg8",
+            "password": "enbbplusplusg8",
+            "keystoreType": "jks"
+        },
+        "release": {
+            "keystore": "enbbplusplusg8.jks",
+            "storePassword": "enbbplusplusg8",
+            "alias": "enbbplusplusg8",
+            "password": "enbbplusplusg8",
+            "keystoreType": "jks"
+        }
+    }
+}
